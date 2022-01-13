@@ -43,8 +43,8 @@ conanbuildinfo_release.cmake
 conanbuildinfo.cmake
 conan.cmake
 conanbuildinfo.txt
-conanfile.txt
 conaninfo.txt
+conanfile.txt
 graph_info.json
 conan.lock
 
@@ -60,5 +60,4 @@ x64/
 *.sln
 
 # Misc
-BlendELF-capi/
-App/nelf.log
+build/

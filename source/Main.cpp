@@ -5,7 +5,6 @@
 
 int main(int argc, char** argv)
 {
-    std::cout << std::getenv("VULKAN_SDK") << std::endl;
     RenderingApp app;
     try
     {
